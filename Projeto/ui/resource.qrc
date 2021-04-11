@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>sandiego2.png</file>
+    <file>sandiego.png</file>
+    <file>nordeste3.png</file>
+  </qresource>
+  <qresource prefix="close">
+    <file>close.png</file>
+  </qresource>
+</RCC>
